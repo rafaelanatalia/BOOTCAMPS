@@ -28,3 +28,4 @@ var iara=150*parseInt(gets());
 var marlene=225;
 var total=(chico+bento+bernando+marina+iara+marlene)
 console.log(total)
+
